@@ -109,6 +109,7 @@ nav{
 
 .navbar-brand img{
     width: 70%;
+   
 }
 
 .nav-link{ 
@@ -341,6 +342,14 @@ footer{
     color: #FFFFFF;
 }
 
+footer a{
+    text-decoration: none;
+    color: #FF1493;
+}
+
+footer a:hover{
+    color:#FFC0CB;
+}
 footer div .row{
     margin: 2em auto;
 }
@@ -414,6 +423,8 @@ footer .template-links div a:hover{
 footer .template-links div a:hover{
     color: #FF1493;
 }
+
+
 
 
 /* media Queries */
