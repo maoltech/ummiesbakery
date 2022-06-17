@@ -348,7 +348,11 @@ footer a{
 }
 
 footer a:hover{
+<<<<<<< HEAD
     color:#FFC0CB;  
+=======
+    color:#FFC0CB;
+>>>>>>> 0d82df969d789f62637cd9925b2a4c18052f6b69
 }
 footer div .row{
     margin: 2em auto;
